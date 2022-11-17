@@ -2,9 +2,7 @@
 
 Create your monthly budget.
 
-## Live Demo
-
-[Live Demo](https://fir-app-3e66a.firebaseapp.com)
+## Screenshot
 
 ![Screenshot 1](client/src/screenshots/screenshot1.png)
 
@@ -113,15 +111,3 @@ firebase deploy
 - [Firebase](https://firebase.google.com/) - Authentication and real time database
 - [Vuetify](https://vuetifyjs.com) - Vue UI Library with beautifully handcrafted Material Components
 - [Vue-Chartjs](https://vue-chartjs.org/) - Easy and beautiful charts with Chart.js and Vue.js
-
-## Contributing
-
-Please send me an email to fchiapini@gmail.com I will be happy to help
-
-## Author
-
-- **Felipe Chiapini** - Project owner - [GitHub](https://github.com/fchiapini)
-
-## Acknowledgments
-
-- A special thanks to my wife for supporting me
